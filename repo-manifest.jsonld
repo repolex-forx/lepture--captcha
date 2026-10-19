@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lepture/captcha/commit/087b30be72640802fddc097472ef35a88020387a",
       "git:hexsha": "087b30be72640802fddc097472ef35a88020387a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/lepture/captcha/commit/d773d17a2b2bccffbca9a46d03e18863870cb1a6",
