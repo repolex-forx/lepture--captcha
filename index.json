@@ -1,0 +1,11 @@
+{
+  "org": "lepture",
+  "repo": "captcha",
+  "versions": [
+    {
+      "commit": "087b30be72640802fddc097472ef35a88020387a",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:50:52.180017+00:00"
+    }
+  ]
+}
